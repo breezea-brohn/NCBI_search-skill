@@ -18,6 +18,30 @@ CST = timezone(timedelta(hours=8))
 
 REPO_DIR = Path.home() / "projects" / "NCBI_search-skill"
 LOG_FILE = REPO_DIR / "activity.log"
+SSH_KEY = Path.home() / ".ssh" / "id_ed26520"
+
+
+def setup_ssh_agent():
+    """Ensure SSH agent is running and key is loaded."""
+    # Check if agent is already running and key is loaded
+    result = subprocess.run(["ssh-add", "-l"], capture_output=True, text=True)
+    if result.returncode == 0 and "id_ed26520" in result.stdout:
+        return  # Already set up
+
+    # Start ssh-agent and add key
+    result = subprocess.run(
+        ["ssh-agent", "-s"], capture_output=True, text=True
+    )
+    for line in result.stdout.splitlines():
+        if line.startswith("SSH_AUTH_SOCK="):
+            os.environ["SSH_AUTH_SOCK"] = line.split("=")[1].rstrip(";")
+        elif line.startswith("SSH_AGENT_PID="):
+            os.environ["SSH_AGENT_PID"] = line.split("=")[1].rstrip(";")
+
+    subprocess.run(
+        ["ssh-add", str(SSH_KEY)],
+        capture_output=True, text=True
+    )
 
 # 真实的 commit message 模板（conventional commits 风格）
 COMMIT_MSGS_SINGLE = [
@@ -156,6 +180,7 @@ def update_log(num_entries: int):
 
 
 def run():
+    setup_ssh_agent()
     now = datetime.now(CST)
     hour = now.hour
 
