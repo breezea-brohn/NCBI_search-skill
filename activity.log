@@ -6,3 +6,4 @@
 [2026-05-20 Wed 07:18:40] Fixed edge case in error handler where date range filter was off by one
 [2026-05-20 Wed 07:18:40] Code review: improved scripts/ error messages
 [2026-05-20 Wed 07:18:40] Added logging for malformed response debugging
+[2026-05-20 Wed 08:03:30] Cleaned up unused imports and dead code in query builder
