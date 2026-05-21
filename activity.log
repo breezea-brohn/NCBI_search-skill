@@ -11,3 +11,4 @@
 [2026-05-20 Wed 08:03:30] Code review: improved query builder error messages
 [2026-05-20 Wed 11:00:01] Paired debugging session — resolved results were truncated silently
 [2026-05-21 Thu 05:00:01] Tested search queries with various edge cases
+[2026-05-21 Thu 06:00:02] Code review: improved pubmed_search.py error messages
