@@ -15,3 +15,4 @@
 [2026-05-21 Thu 12:00:02] Updated documentation for result parser
 [2026-05-22 Fri 04:00:01] Added logging for large result pagination debugging
 [2026-05-22 Fri 04:00:01] Added logging for authentication failure debugging
+[2026-05-22 Fri 07:00:02] Added error handling for malformed response
