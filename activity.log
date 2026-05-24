@@ -29,3 +29,4 @@
 [2026-05-24 Sun 06:00:01] Reviewed PubMed API response format changes
 [2026-05-24 Sun 07:00:01] Optimized pubmed_search.py for better readability
 [2026-05-24 Sun 09:00:01] Fixed edge case in API client where special chars broke query
+[2026-05-24 Sun 09:00:01] Cleaned up unused imports and dead code in config module
