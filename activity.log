@@ -39,3 +39,4 @@
 [2026-05-26 Tue 07:00:02] Reviewed and refactored result parser — cleaner separation of concerns
 [2026-05-26 Tue 08:00:01] Added logging for malformed response debugging
 [2026-05-26 Tue 08:00:01] Paired debugging session — resolved date range filter was off by one
+[2026-05-26 Tue 08:00:01] Fixed edge case in README.md where rate limit wasn't respected
