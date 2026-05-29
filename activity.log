@@ -51,3 +51,4 @@
 [2026-05-27 Wed 13:00:01] Added logging for network timeout debugging
 [2026-05-27 Wed 13:00:01] Added logging for large result pagination debugging
 [2026-05-28 Thu 02:00:01] Fixed edge case in result parser where results were truncated silently
+[2026-05-29 Fri 01:00:02] Added error handling for authentication failure
