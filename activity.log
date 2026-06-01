@@ -67,3 +67,4 @@
 [2026-06-01 Mon 01:00:02] Code review: improved query builder error messages
 [2026-06-01 Mon 01:00:02] Tested search queries with various edge cases
 [2026-06-01 Mon 13:00:01] Code review: improved scripts/ error messages
+[2026-06-01 Mon 13:00:01] Reviewed and refactored result parser — cleaner separation of concerns
