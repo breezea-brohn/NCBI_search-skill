@@ -71,3 +71,4 @@
 [2026-06-01 Mon 13:00:01] Updated documentation for README.md
 [2026-06-02 Tue 03:00:02] Updated type hints in SKILL.md
 [2026-06-02 Tue 03:00:03] Refactored scripts/ to use configuration constants
+[2026-06-02 Tue 09:00:01] Fixed edge case in README.md where pagination skipped last page
