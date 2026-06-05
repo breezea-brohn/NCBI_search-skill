@@ -85,3 +85,4 @@
 [2026-06-04 Thu 13:00:01] Reviewed PubMed API response format changes
 [2026-06-04 Thu 13:00:02] Cleaned up unused imports and dead code in config module
 [2026-06-04 Thu 14:00:01] Optimized query builder for better readability
+[2026-06-05 Fri 01:00:01] Fixed edge case in query builder where duplicate results appeared
