@@ -90,3 +90,4 @@
 [2026-06-05 Fri 08:00:01] Updated type hints in error handler
 [2026-06-05 Fri 11:00:01] Cleaned up unused imports and dead code in README.md
 [2026-06-05 Fri 15:00:01] Investigated performance bottleneck in pubmed_search.py
+[2026-06-06 Sat 02:00:01] Code review: improved config module error messages
