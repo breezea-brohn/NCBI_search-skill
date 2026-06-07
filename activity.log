@@ -96,3 +96,4 @@
 [2026-06-06 Sat 13:00:02] Updated type hints in API client
 [2026-06-06 Sat 15:00:02] Updated type hints in SKILL.md
 [2026-06-07 Sun 07:00:02] Added logging for authentication failure debugging
+[2026-06-07 Sun 12:00:01] Fixed edge case in scripts/ where timeout wasn't caught
