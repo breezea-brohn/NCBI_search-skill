@@ -106,3 +106,4 @@
 [2026-06-08 Mon 15:00:01] Reviewed and refactored scripts/ — cleaner separation of concerns
 [2026-06-09 Tue 07:00:01] Optimized query builder for better readability
 [2026-06-09 Tue 07:00:01] Fixed edge case in scripts/ where date range filter was off by one
+[2026-06-09 Tue 11:00:01] Fixed edge case in README.md where date range filter was off by one
