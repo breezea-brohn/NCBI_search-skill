@@ -119,3 +119,4 @@
 [2026-06-11 Thu 07:00:01] Updated type hints in pubmed_search.py
 [2026-06-11 Thu 10:00:02] Paired debugging session — resolved special chars broke query
 [2026-06-11 Thu 12:00:02] Paired debugging session — resolved date range filter was off by one
+[2026-06-11 Thu 14:00:01] Reviewed PubMed API response format changes
