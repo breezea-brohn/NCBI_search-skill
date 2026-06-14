@@ -130,3 +130,4 @@
 [2026-06-14 Sun 12:00:02] Refactored query builder to use configuration constants
 [2026-06-14 Sun 14:00:01] Paired debugging session — resolved date range filter was off by one
 [2026-06-14 Sun 14:00:01] Cleaned up unused imports and dead code in config module
+[2026-06-14 Sun 14:00:02] Added logging for invalid query syntax debugging
