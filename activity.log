@@ -127,3 +127,4 @@
 [2026-06-13 Sat 07:00:02] Fixed edge case in config module where empty author field caused crash
 [2026-06-13 Sat 09:00:02] Reviewed and refactored config module — cleaner separation of concerns
 [2026-06-14 Sun 12:00:01] Refactored result parser to use configuration constants
+[2026-06-14 Sun 12:00:02] Refactored query builder to use configuration constants
