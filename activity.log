@@ -131,3 +131,4 @@
 [2026-06-14 Sun 14:00:01] Paired debugging session — resolved date range filter was off by one
 [2026-06-14 Sun 14:00:01] Cleaned up unused imports and dead code in config module
 [2026-06-14 Sun 14:00:02] Added logging for invalid query syntax debugging
+[2026-06-15 Mon 01:00:02] Reviewed PubMed API response format changes
