@@ -134,3 +134,4 @@
 [2026-06-15 Mon 01:00:02] Reviewed PubMed API response format changes
 [2026-06-15 Mon 13:00:01] Fixed edge case in SKILL.md where special chars broke query
 [2026-06-15 Mon 15:00:02] Updated type hints in query builder
+[2026-06-16 Tue 07:00:01] Investigated performance bottleneck in scripts/
