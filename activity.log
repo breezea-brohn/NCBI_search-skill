@@ -141,3 +141,4 @@
 [2026-06-16 Tue 15:00:02] Paired debugging session — resolved special chars broke query
 [2026-06-17 Wed 05:00:01] Added error handling for malformed response
 [2026-06-17 Wed 05:00:02] Added logging for network timeout debugging
+[2026-06-17 Wed 12:00:01] Updated documentation for query builder
