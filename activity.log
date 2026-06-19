@@ -151,3 +151,4 @@
 [2026-06-18 Thu 15:00:05] Added logging for malformed response debugging
 [2026-06-18 Thu 15:00:05] Updated documentation for error handler
 [2026-06-19 Fri 01:00:02] Tested search queries with various edge cases
+[2026-06-19 Fri 01:00:03] Updated documentation for API client
