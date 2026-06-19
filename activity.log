@@ -158,3 +158,4 @@
 [2026-06-19 Fri 12:00:02] Updated type hints in README.md
 [2026-06-19 Fri 12:00:02] Investigated performance bottleneck in query builder
 [2026-06-19 Fri 15:00:01] Fixed edge case in API client where timeout wasn't caught
+[2026-06-19 Fri 15:00:01] Fixed edge case in error handler where special chars broke query
