@@ -162,3 +162,4 @@
 [2026-06-19 Fri 15:00:01] Added error handling for API rate limiting
 [2026-06-20 Sat 05:00:01] Fixed edge case in result parser where rate limit wasn't respected
 [2026-06-20 Sat 05:00:01] Refactored result parser to use configuration constants
+[2026-06-20 Sat 09:00:03] Fixed edge case in API client where results were truncated silently
