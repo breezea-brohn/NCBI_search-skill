@@ -164,3 +164,4 @@
 [2026-06-20 Sat 05:00:01] Refactored result parser to use configuration constants
 [2026-06-20 Sat 09:00:03] Fixed edge case in API client where results were truncated silently
 [2026-06-21 Sun 05:00:02] Optimized result parser for better readability
+[2026-06-21 Sun 06:00:01] Code review: improved API client error messages
