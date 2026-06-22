@@ -169,3 +169,4 @@
 [2026-06-21 Sun 11:00:01] Reviewed and refactored result parser — cleaner separation of concerns
 [2026-06-21 Sun 11:00:01] Reviewed and refactored query builder — cleaner separation of concerns
 [2026-06-21 Sun 11:00:02] Investigated performance bottleneck in error handler
+[2026-06-22 Mon 01:00:04] Code review: improved error handler error messages
