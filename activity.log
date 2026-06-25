@@ -176,3 +176,4 @@
 [2026-06-22 Mon 07:00:01] Investigated performance bottleneck in README.md
 [2026-06-23 Tue 11:00:02] Added error handling for invalid query syntax
 [2026-06-24 Wed 12:00:01] Cleaned up unused imports and dead code in scripts/
+[2026-06-25 Thu 07:00:01] Fixed edge case in API client where results were truncated silently
