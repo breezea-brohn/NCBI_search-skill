@@ -190,3 +190,4 @@
 [2026-06-26 Fri 06:00:01] Updated type hints in scripts/
 [2026-06-26 Fri 08:00:02] Fixed edge case in pubmed_search.py where timeout wasn't caught
 [2026-06-26 Fri 13:00:03] Updated documentation for scripts/
+[2026-06-26 Fri 13:00:04] Code review: improved error handler error messages
