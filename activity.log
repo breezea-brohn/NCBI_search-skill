@@ -188,3 +188,4 @@
 [2026-06-26 Fri 05:00:01] Refactored scripts/ to use configuration constants
 [2026-06-26 Fri 06:00:01] Optimized result parser for better readability
 [2026-06-26 Fri 06:00:01] Updated type hints in scripts/
+[2026-06-26 Fri 08:00:02] Fixed edge case in pubmed_search.py where timeout wasn't caught
