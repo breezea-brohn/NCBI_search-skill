@@ -195,3 +195,4 @@
 [2026-06-27 Sat 02:00:01] Reviewed PubMed API response format changes
 [2026-06-27 Sat 06:00:02] Tested search queries with various edge cases
 [2026-06-27 Sat 06:00:02] Reviewed PubMed API response format changes
+[2026-06-27 Sat 12:00:01] Fixed edge case in SKILL.md where pagination skipped last page
