@@ -208,3 +208,4 @@
 [2026-06-29 Mon 05:00:01] Updated documentation for config module
 [2026-06-29 Mon 08:00:01] Reviewed PubMed API response format changes
 [2026-06-29 Mon 13:00:01] Optimized query builder for better readability
+[2026-06-30 Tue 07:00:02] Refactored API client to use configuration constants
