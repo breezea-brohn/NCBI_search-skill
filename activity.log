@@ -210,3 +210,4 @@
 [2026-06-29 Mon 13:00:01] Optimized query builder for better readability
 [2026-06-30 Tue 07:00:02] Refactored API client to use configuration constants
 [2026-06-30 Tue 11:00:01] Tested search queries with various edge cases
+[2026-07-01 Wed 07:00:02] Paired debugging session — resolved special chars broke query
