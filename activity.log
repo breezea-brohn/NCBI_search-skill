@@ -221,3 +221,4 @@
 [2026-07-02 Thu 01:00:01] Updated type hints in SKILL.md
 [2026-07-02 Thu 05:00:01] Code review: improved query builder error messages
 [2026-07-02 Thu 05:00:01] Reviewed and refactored API client — cleaner separation of concerns
+[2026-07-02 Thu 12:00:01] Code review: improved SKILL.md error messages
