@@ -232,3 +232,4 @@
 [2026-07-04 Sat 03:00:01] Tested search queries with various edge cases
 [2026-07-04 Sat 06:00:02] Added logging for large result pagination debugging
 [2026-07-04 Sat 06:00:02] Paired debugging session — resolved special chars broke query
+[2026-07-04 Sat 11:00:01] Code review: improved README.md error messages
