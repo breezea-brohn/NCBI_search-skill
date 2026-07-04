@@ -231,3 +231,4 @@
 [2026-07-03 Fri 13:00:01] Code review: improved query builder error messages
 [2026-07-04 Sat 03:00:01] Tested search queries with various edge cases
 [2026-07-04 Sat 06:00:02] Added logging for large result pagination debugging
+[2026-07-04 Sat 06:00:02] Paired debugging session — resolved special chars broke query
