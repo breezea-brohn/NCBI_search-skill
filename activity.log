@@ -239,3 +239,4 @@
 [2026-07-07 Tue 01:00:01] Added logging for large result pagination debugging
 [2026-07-07 Tue 01:00:01] Tested search queries with various edge cases
 [2026-07-07 Tue 06:00:01] Updated type hints in result parser
+[2026-07-07 Tue 07:00:01] Updated documentation for result parser
