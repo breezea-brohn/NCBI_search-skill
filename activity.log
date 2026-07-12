@@ -261,3 +261,4 @@
 [2026-07-11 Sat 15:00:01] Cleaned up unused imports and dead code in API client
 [2026-07-12 Sun 01:00:01] Cleaned up unused imports and dead code in README.md
 [2026-07-12 Sun 01:00:01] Updated documentation for README.md
+[2026-07-12 Sun 02:00:01] Added logging for invalid query syntax debugging
