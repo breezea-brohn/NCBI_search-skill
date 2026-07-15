@@ -274,3 +274,4 @@
 [2026-07-15 Wed 07:00:01] Reviewed PubMed API response format changes
 [2026-07-15 Wed 07:00:01] Refactored API client to use configuration constants
 [2026-07-15 Wed 07:00:01] Added error handling for invalid query syntax
+[2026-07-15 Wed 10:00:02] Fixed edge case in SKILL.md where date range filter was off by one
