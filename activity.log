@@ -272,3 +272,4 @@
 [2026-07-14 Tue 11:00:01] Paired debugging session — resolved pagination skipped last page
 [2026-07-15 Wed 04:00:01] Paired debugging session — resolved empty author field caused crash
 [2026-07-15 Wed 07:00:01] Reviewed PubMed API response format changes
+[2026-07-15 Wed 07:00:01] Refactored API client to use configuration constants
