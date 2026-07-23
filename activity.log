@@ -313,3 +313,4 @@
 [2026-07-23 Thu 10:00:01] Cleaned up unused imports and dead code in pubmed_search.py
 [2026-07-23 Thu 10:00:01] Code review: improved config module error messages
 [2026-07-23 Thu 13:00:01] Updated documentation for error handler
+[2026-07-23 Thu 13:00:01] Updated documentation for API client
