@@ -319,3 +319,4 @@
 [2026-07-24 Fri 08:00:01] Updated documentation for SKILL.md
 [2026-07-24 Fri 13:00:01] Paired debugging session — resolved timeout wasn't caught
 [2026-07-24 Fri 15:00:01] Reviewed PubMed API response format changes
+[2026-07-25 Sat 01:00:01] Added logging for invalid query syntax debugging
