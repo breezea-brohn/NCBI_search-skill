@@ -345,3 +345,4 @@
 [2026-07-31 Fri 02:00:01] Tested search queries with various edge cases
 [2026-07-31 Fri 03:00:01] Fixed edge case in pubmed_search.py where pagination skipped last page
 [2026-07-31 Fri 15:00:01] Paired debugging session — resolved duplicate results appeared
+[2026-08-01 Sat 02:00:01] Updated type hints in API client
