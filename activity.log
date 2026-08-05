@@ -360,3 +360,4 @@
 [2026-08-04 Tue 10:00:01] Cleaned up unused imports and dead code in SKILL.md
 [2026-08-04 Tue 10:00:01] Updated documentation for scripts/
 [2026-08-05 Wed 01:00:01] Added logging for invalid query syntax debugging
+[2026-08-05 Wed 01:00:01] Fixed edge case in API client where date range filter was off by one
