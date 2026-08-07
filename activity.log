@@ -368,3 +368,4 @@
 [2026-08-06 Thu 10:00:01] Reviewed and refactored query builder — cleaner separation of concerns
 [2026-08-07 Fri 03:00:01] Reviewed PubMed API response format changes
 [2026-08-07 Fri 03:00:01] Added logging for network timeout debugging
+[2026-08-07 Fri 03:00:01] Code review: improved query builder error messages
