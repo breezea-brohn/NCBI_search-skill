@@ -373,3 +373,4 @@
 [2026-08-08 Sat 05:00:01] Cleaned up unused imports and dead code in API client
 [2026-08-08 Sat 07:00:01] Cleaned up unused imports and dead code in result parser
 [2026-08-08 Sat 07:00:01] Code review: improved config module error messages
+[2026-08-08 Sat 09:00:01] Refactored scripts/ to use configuration constants
