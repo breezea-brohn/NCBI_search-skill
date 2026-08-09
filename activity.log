@@ -375,3 +375,4 @@
 [2026-08-08 Sat 07:00:01] Code review: improved config module error messages
 [2026-08-08 Sat 09:00:01] Refactored scripts/ to use configuration constants
 [2026-08-09 Sun 01:00:01] Fixed edge case in query builder where rate limit wasn't respected
+[2026-08-09 Sun 07:00:01] Refactored config module to use configuration constants
