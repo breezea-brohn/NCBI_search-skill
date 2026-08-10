@@ -383,3 +383,4 @@
 [2026-08-09 Sun 13:00:02] Updated documentation for pubmed_search.py
 [2026-08-10 Mon 04:00:01] Refactored result parser to use configuration constants
 [2026-08-10 Mon 09:00:01] Code review: improved API client error messages
+[2026-08-10 Mon 10:00:01] Added logging for malformed response debugging
