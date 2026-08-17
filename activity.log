@@ -410,3 +410,4 @@
 [2026-08-16 Sun 15:00:01] Refactored scripts/ to use configuration constants
 [2026-08-17 Mon 01:00:01] Tested search queries with various edge cases
 [2026-08-17 Mon 06:00:01] Added logging for large result pagination debugging
+[2026-08-17 Mon 12:00:01] Added error handling for API rate limiting
