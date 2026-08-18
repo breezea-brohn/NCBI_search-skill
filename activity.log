@@ -412,3 +412,4 @@
 [2026-08-17 Mon 06:00:01] Added logging for large result pagination debugging
 [2026-08-17 Mon 12:00:01] Added error handling for API rate limiting
 [2026-08-18 Tue 01:00:01] Reviewed and refactored error handler — cleaner separation of concerns
+[2026-08-18 Tue 01:00:02] Refactored README.md to use configuration constants
