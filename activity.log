@@ -446,3 +446,4 @@
 [2026-08-24 Mon 10:00:01] Paired debugging session — resolved pagination skipped last page
 [2026-08-24 Mon 10:00:01] Reviewed PubMed API response format changes
 [2026-08-24 Mon 10:00:01] Optimized error handler for better readability
+[2026-08-24 Mon 11:00:01] Reviewed and refactored query builder — cleaner separation of concerns
